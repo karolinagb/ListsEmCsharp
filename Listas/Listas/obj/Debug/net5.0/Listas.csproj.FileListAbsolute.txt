@@ -1,0 +1,16 @@
+C:\projetos\Listas\Listas\obj\Debug\net5.0\Listas.csproj.AssemblyReference.cache
+C:\projetos\Listas\Listas\obj\Debug\net5.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\Listas\Listas\obj\Debug\net5.0\Listas.AssemblyInfoInputs.cache
+C:\projetos\Listas\Listas\obj\Debug\net5.0\Listas.AssemblyInfo.cs
+C:\projetos\Listas\Listas\obj\Debug\net5.0\Listas.csproj.CoreCompileInputs.cache
+C:\projetos\Listas\Listas\bin\Debug\net5.0\Listas.exe
+C:\projetos\Listas\Listas\bin\Debug\net5.0\Listas.deps.json
+C:\projetos\Listas\Listas\bin\Debug\net5.0\Listas.runtimeconfig.json
+C:\projetos\Listas\Listas\bin\Debug\net5.0\Listas.runtimeconfig.dev.json
+C:\projetos\Listas\Listas\bin\Debug\net5.0\Listas.dll
+C:\projetos\Listas\Listas\bin\Debug\net5.0\ref\Listas.dll
+C:\projetos\Listas\Listas\bin\Debug\net5.0\Listas.pdb
+C:\projetos\Listas\Listas\obj\Debug\net5.0\Listas.dll
+C:\projetos\Listas\Listas\obj\Debug\net5.0\ref\Listas.dll
+C:\projetos\Listas\Listas\obj\Debug\net5.0\Listas.pdb
+C:\projetos\Listas\Listas\obj\Debug\net5.0\Listas.genruntimeconfig.cache
